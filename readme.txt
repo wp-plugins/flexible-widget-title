@@ -34,7 +34,6 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 == Changelog ==
 
-
 = 1.0.1=
 * Prevented direct access for the plugin file
 
