@@ -2,8 +2,8 @@
 Contributors: hyyan 
 Tags: widget,widget title
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 1.0.2
+Tested up to: 4.1.0
+Stable tag: 1.0.3
 License: MIT
 
 The plugin will enable you to hide widgets title in the front end while the widget title still visible in the backend.
@@ -16,7 +16,7 @@ If you want to hide the widget title in the front end just surround the widgets 
 For instance :
 
 `[My Widget Title]`
- 
+
 
 == Installation ==
 
@@ -34,8 +34,11 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 == Changelog ==
 
+=1.0.3=
 
-=1.0.1=
+* Tested on wordpress 4.1.0
+
+=1.0.2=
 
 * Fixed [Issue#1](https://github.com/hyyan/flexible-widget-title/issues/1)
 
